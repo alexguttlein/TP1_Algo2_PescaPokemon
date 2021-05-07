@@ -1,0 +1,10 @@
+squirtle;30;9;azul
+wartortle;40;30;azul
+blastoise;20;90;azul
+psyduck;50;20;amarillo
+golduck;30;70;azul
+poliwag;40;12;azul
+poliwhirl;30;20;azul
+poliwrath;20;50;azul
+tentacool;30;20;azul
+tentacruel;20;60;azul
